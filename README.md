@@ -1,5 +1,7 @@
 # sampling-techniques-to-balance-imbalanced-datasets
 Technology: Python, ML
+
+
 Using machine learning, supervised issues like classification may be solved accurately and consistently.
 In the actual world, during the dataset construction, there may be a class imbalance where the number of data samples in a class is not equal to the other class.
 Such events provide atypical prediction outcomes.
